@@ -2,7 +2,7 @@
 This is a script by which you can install Kali Nethunter (Kali Linux) in your termux application without rooted phone.
 
 ## Screenshot 
-![Screenshot](https://postimg.cc/N99XZfSD) 
+[![Kali-Nethunter.png](https://i.postimg.cc/0QZCMzCT/Kali-Nethunter.png)]
 
 ### Install Kali Nethunter Full Version
 1. Download script in **HOME** `wget https://raw.githubusercontent.com/RaynerSec/Kali-Nethunter-In-Termux/master/install-nethunter-full-termux`
